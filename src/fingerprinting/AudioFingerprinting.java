@@ -1,4 +1,4 @@
-
+/**@author Jose Ramon Moratalla Munoz**/
 package fingerprinting;
 
 import java.util.logging.Level;
@@ -13,7 +13,7 @@ import javax.sound.sampled.LineUnavailableException;
  * Example (2): java AudioFingerprinting -matching);
  * 
  **********************************************************************/
-//-add “Big Enough (Artist: Kirin J Callinan, Alex Cameron, Molly Lewis, Jimmy Barnes”
+//-add “Big Enough (Artist: Kirin J Callinan, Alex Cameron, Molly Lewis, Jimmy Barnes)”
 public class AudioFingerprinting {
 
 	/**
